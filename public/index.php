@@ -70,7 +70,7 @@ $resultado = $e->getMessage();
 
 
 
-<h2>Sumar dos números</h2>
+<h2>Sumar dos números V2.1</h2>
 
 
 
