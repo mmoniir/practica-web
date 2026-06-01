@@ -26,7 +26,7 @@ throw new InvalidArgumentException("Valores no numéricos");
 
 
 
-return $num1 - $num2;
+return $num1 + $num2;
 
 }
 
